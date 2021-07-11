@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hughqlee. (Hugh Q. Lee)
-- 👀 I’m interested in Data Engineering, AI, python.
+- 👀 I’m interested in Data, AI, python.
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
