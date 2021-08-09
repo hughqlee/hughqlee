@@ -11,8 +11,10 @@
 - [ ] FastAPI
 - [X] Tensorflow & Keras - ML / DL
 - [ ] React
-- [ ] SQL - Database
+- [ ] PostgreSQL - Database
+- [ ] mongoDB - NoSQL
 - [X] Git
 - [ ] Docker - Container
 - [ ] AWS - Cloud
+- [ ] Firebase
 - [ ] Spark (ML) - Bigdata
