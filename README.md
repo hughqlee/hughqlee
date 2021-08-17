@@ -1,20 +1,19 @@
 # Henry Lee (@hughqlee)
 
-* **Would be ML Engineer.** 🧑‍💻
+* **Would be ML / DL Engineer.** 🧑‍💻
 * Worked for an Overseas Sales before. 🌏
+* <a href='https://velog.io/@hughqlee'>blog</a>
 
-- [X] Python - Basis
-- [X] Jupyter-notebook
-- [X] Pandas & Numpy
-- [X] Django - Web (Backend)
+## Learn-ing
+- [X] Python
+- [X] Tensorflow
+- [X] Git
+- [X] React
+- [X] Firebase
+- [X] Django
 - [X] Flask
 - [ ] FastAPI
-- [X] Tensorflow & Keras - ML / DL
-- [ ] React
-- [ ] PostgreSQL - Database
-- [ ] mongoDB - NoSQL
-- [X] Git
-- [ ] Docker - Container
-- [ ] AWS - Cloud
-- [ ] Firebase
-- [ ] Spark (ML) - Bigdata
+- [ ] PostgreSQL
+- [ ] Docker
+- [ ] AWS
+- [ ] Spark
