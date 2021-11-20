@@ -1,19 +1,9 @@
 # Henry Lee (@hughqlee)
 
-* **Would be ML / DL Engineer.** 🧑‍💻
-* Worked for an Overseas Sales before. 🌏
-* <a href='https://velog.io/@hughqlee'>blog</a>
+* **Working as AI Engineer.** 🧑‍💻
+* Worked as Overseas Fabric Supplier before. 💼
+* S.Korea 🇰🇷
+* Startup 🚀
 
-## Learn-ing
-- [X] Python
+- [X] ZPython
 - [X] Tensorflow
-- [X] Git
-- [X] React
-- [X] Firebase
-- [X] Django
-- [X] Flask
-- [ ] FastAPI
-- [ ] PostgreSQL
-- [ ] Docker
-- [ ] AWS
-- [ ] Spark
