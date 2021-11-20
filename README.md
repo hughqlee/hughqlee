@@ -5,5 +5,5 @@
 * S.Korea 🇰🇷
 * Startup 🚀
 
-- [X] ZPython
+- [X] Python
 - [X] Tensorflow
