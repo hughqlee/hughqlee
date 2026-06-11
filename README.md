@@ -2,9 +2,9 @@
 안녕?
 - Product Engineer
   - AI
-  - Business
+  - Biology
   - Computer Vision
   - Drug Discovery
   - Embedded
-  - Jetson
-  - Rasberry Pi
+    - Jetson
+    - Rasberry Pi
